@@ -1,0 +1,14 @@
+/Users/vega/dev/dotnet/StudentAPI/bin/Debug/netcoreapp2.1/StudentAPI.deps.json
+/Users/vega/dev/dotnet/StudentAPI/bin/Debug/netcoreapp2.1/StudentAPI.runtimeconfig.json
+/Users/vega/dev/dotnet/StudentAPI/bin/Debug/netcoreapp2.1/StudentAPI.runtimeconfig.dev.json
+/Users/vega/dev/dotnet/StudentAPI/bin/Debug/netcoreapp2.1/StudentAPI.dll
+/Users/vega/dev/dotnet/StudentAPI/bin/Debug/netcoreapp2.1/StudentAPI.pdb
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.csprojAssemblyReference.cache
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.csproj.CoreCompileInputs.cache
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.RazorAssemblyInfo.cache
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.RazorAssemblyInfo.cs
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.AssemblyInfoInputs.cache
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.AssemblyInfo.cs
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.RazorTargetAssemblyInfo.cache
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.dll
+/Users/vega/dev/dotnet/StudentAPI/obj/Debug/netcoreapp2.1/StudentAPI.pdb
